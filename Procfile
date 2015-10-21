@@ -1,0 +1,1 @@
+web: export DATABASE_URL='postgres://admin:TPINSHTPXOGFPMPO@aws-us-east-1-portal.3.dblayer.com:10414/compose';python runserver.py
